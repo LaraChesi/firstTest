@@ -22,6 +22,7 @@ class Player(BasePlayer):
     
 
 # PAGES
+# Hier steht ein bedeutungsloser KOmmentar
 class MyPage(Page):
     form_model = 'player'
     form_fields = ['age', 'gender', 'preference']
